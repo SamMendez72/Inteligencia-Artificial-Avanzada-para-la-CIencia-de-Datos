@@ -4,3 +4,4 @@ Se realizaron actividades tales como chatbots e implementaciones de algoritmos N
 * Implementación de algoritmo CKY 
 * Chatbot para tomar la orden de un restaurante utilizando Amazon Lex y Amazon Lambda
 * Video explicativo del funcionamiento del chatbot
+* Función lambda que funciona junto con el chatbot
